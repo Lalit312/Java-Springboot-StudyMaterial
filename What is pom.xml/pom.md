@@ -159,8 +159,3 @@ Used for environment-specific builds.
 - Keep your `pom.xml` clean and modular.
 - Use Maven profiles for environment-specific builds.
 - Use the Maven wrapper (`mvnw`) for consistent builds across systems.
-
----
-```
-
-Let me know if you'd like this content tailored for a multi-module setup or exported into a specific format like HTML or PDF (which you'd need to do manually).
