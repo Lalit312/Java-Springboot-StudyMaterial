@@ -1,5 +1,3 @@
-Great topic 👍 Let’s go step by step and make it clear.
-
 In **Spring Data JPA**, *projection* is a way to **select only specific columns** from a database instead of fetching the entire entity.
 This improves performance (less data transferred) and gives you cleaner DTOs (Data Transfer Objects) for APIs.
 
